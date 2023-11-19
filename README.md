@@ -92,4 +92,9 @@ Membuat Form Input
 
 ![tampilan form](https://github.com/MikaelRivaldo/Lab7Web/assets/115770247/cc1fb51f-b010-4806-b74b-3221d4e1db38)
 
+# TUGAS
+
+![Tugas](https://github.com/MikaelRivaldo/Lab7Web/assets/115770247/5a6b4da2-fe70-4f00-b033-5637b6896352)
+
+
 
